@@ -1,0 +1,5 @@
+{
+  "name": "Event Scheduler App",
+  "description": "A centralized platform for institutions to create, manage, and share events. It allows students to view and register for events, faculty to organize them, and administrators to oversee the entire process, preventing scheduling conflicts and improving communication.",
+  "requestFramePermissions": []
+}
